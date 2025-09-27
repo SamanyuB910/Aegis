@@ -1,0 +1,19 @@
+{
+  "feature_names": [
+    "step",
+    "type",
+    "amount",
+    "oldbalanceOrg",
+    "newbalanceOrig",
+    "oldbalanceDest",
+    "newbalanceDest",
+    "isFlaggedFraud"
+  ],
+  "n_features": 8,
+  "n_train": 4312,
+  "n_val": 616,
+  "n_test": 1232,
+  "fraud_rate_train": 0.09995361781076066,
+  "fraud_rate_val": 0.10064935064935066,
+  "fraud_rate_test": 0.09983766233766234,
+  "scaler": 

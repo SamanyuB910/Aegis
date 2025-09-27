@@ -74,6 +74,17 @@ backend/models/saved/
 backend/logs/
 backend/uploads/
 
+# PaySim Dataset (large financial transaction data)
+dataset/
+*/dataset/
+backend/dataset/
+**/dataset/
+*.csv
+*PS_*.csv
+
+# PaySim Production Config (model-specific, regenerated on training)
+*paysim_production_config.json
+
 # Visual Studio (inherited from remote)
 *.rsuser
 *.suo

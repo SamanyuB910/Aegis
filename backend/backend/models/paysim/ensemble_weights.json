@@ -1,0 +1,8 @@
+{
+  "isolation_forest": 0.15428195559551394,
+  "local_outlier_factor": 0.06563164174960419,
+  "one_class_svm": 0.11313326964966268,
+  "xgboost": 0.22698050155848704,
+  "random_forest": 0.22693422622687473,
+  "logistic_regression": 0.21303840521985737
+}
